@@ -1,0 +1,45 @@
+E:\software engineering\ITI\projects\2_LibraryUML\Library_System\Library_System\Library_System\bin\Debug\net6.0\Library_System.exe
+E:\software engineering\ITI\projects\2_LibraryUML\Library_System\Library_System\Library_System\bin\Debug\net6.0\Library_System.deps.json
+E:\software engineering\ITI\projects\2_LibraryUML\Library_System\Library_System\Library_System\bin\Debug\net6.0\Library_System.runtimeconfig.json
+E:\software engineering\ITI\projects\2_LibraryUML\Library_System\Library_System\Library_System\bin\Debug\net6.0\Library_System.dll
+E:\software engineering\ITI\projects\2_LibraryUML\Library_System\Library_System\Library_System\bin\Debug\net6.0\ref\Library_System.dll
+E:\software engineering\ITI\projects\2_LibraryUML\Library_System\Library_System\Library_System\bin\Debug\net6.0\Library_System.pdb
+E:\software engineering\ITI\projects\2_LibraryUML\Library_System\Library_System\Library_System\obj\Debug\net6.0\Library_System.csproj.AssemblyReference.cache
+E:\software engineering\ITI\projects\2_LibraryUML\Library_System\Library_System\Library_System\obj\Debug\net6.0\Library_System.GeneratedMSBuildEditorConfig.editorconfig
+E:\software engineering\ITI\projects\2_LibraryUML\Library_System\Library_System\Library_System\obj\Debug\net6.0\Library_System.AssemblyInfoInputs.cache
+E:\software engineering\ITI\projects\2_LibraryUML\Library_System\Library_System\Library_System\obj\Debug\net6.0\Library_System.AssemblyInfo.cs
+E:\software engineering\ITI\projects\2_LibraryUML\Library_System\Library_System\Library_System\obj\Debug\net6.0\Library_System.csproj.CoreCompileInputs.cache
+E:\software engineering\ITI\projects\2_LibraryUML\Library_System\Library_System\Library_System\obj\Debug\net6.0\Library_System.dll
+E:\software engineering\ITI\projects\2_LibraryUML\Library_System\Library_System\Library_System\obj\Debug\net6.0\ref\Library_System.dll
+E:\software engineering\ITI\projects\2_LibraryUML\Library_System\Library_System\Library_System\obj\Debug\net6.0\Library_System.pdb
+E:\software engineering\ITI\projects\2_LibraryUML\Library_System\Library_System\Library_System\obj\Debug\net6.0\Library_System.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\Library_System (1)\Library_System\Library_System\bin\Debug\net6.0\Library_System.exe
+C:\Users\LENOVO\Downloads\Library_System (1)\Library_System\Library_System\bin\Debug\net6.0\Library_System.deps.json
+C:\Users\LENOVO\Downloads\Library_System (1)\Library_System\Library_System\bin\Debug\net6.0\Library_System.runtimeconfig.json
+C:\Users\LENOVO\Downloads\Library_System (1)\Library_System\Library_System\bin\Debug\net6.0\Library_System.dll
+C:\Users\LENOVO\Downloads\Library_System (1)\Library_System\Library_System\bin\Debug\net6.0\ref\Library_System.dll
+C:\Users\LENOVO\Downloads\Library_System (1)\Library_System\Library_System\bin\Debug\net6.0\Library_System.pdb
+C:\Users\LENOVO\Downloads\Library_System (1)\Library_System\Library_System\obj\Debug\net6.0\Library_System.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Library_System (1)\Library_System\Library_System\obj\Debug\net6.0\Library_System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\Library_System (1)\Library_System\Library_System\obj\Debug\net6.0\Library_System.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\Library_System (1)\Library_System\Library_System\obj\Debug\net6.0\Library_System.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\Library_System (1)\Library_System\Library_System\obj\Debug\net6.0\Library_System.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Library_System (1)\Library_System\Library_System\obj\Debug\net6.0\Library_System.dll
+C:\Users\LENOVO\Downloads\Library_System (1)\Library_System\Library_System\obj\Debug\net6.0\ref\Library_System.dll
+C:\Users\LENOVO\Downloads\Library_System (1)\Library_System\Library_System\obj\Debug\net6.0\Library_System.pdb
+C:\Users\LENOVO\Downloads\Library_System (1)\Library_System\Library_System\obj\Debug\net6.0\Library_System.genruntimeconfig.cache
+D:\ITI\UML\Library_System\Library_System\Library_System\bin\Debug\net6.0\Library_System.exe
+D:\ITI\UML\Library_System\Library_System\Library_System\bin\Debug\net6.0\Library_System.deps.json
+D:\ITI\UML\Library_System\Library_System\Library_System\bin\Debug\net6.0\Library_System.runtimeconfig.json
+D:\ITI\UML\Library_System\Library_System\Library_System\bin\Debug\net6.0\Library_System.dll
+D:\ITI\UML\Library_System\Library_System\Library_System\bin\Debug\net6.0\ref\Library_System.dll
+D:\ITI\UML\Library_System\Library_System\Library_System\bin\Debug\net6.0\Library_System.pdb
+D:\ITI\UML\Library_System\Library_System\Library_System\obj\Debug\net6.0\Library_System.csproj.AssemblyReference.cache
+D:\ITI\UML\Library_System\Library_System\Library_System\obj\Debug\net6.0\Library_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\UML\Library_System\Library_System\Library_System\obj\Debug\net6.0\Library_System.AssemblyInfoInputs.cache
+D:\ITI\UML\Library_System\Library_System\Library_System\obj\Debug\net6.0\Library_System.AssemblyInfo.cs
+D:\ITI\UML\Library_System\Library_System\Library_System\obj\Debug\net6.0\Library_System.csproj.CoreCompileInputs.cache
+D:\ITI\UML\Library_System\Library_System\Library_System\obj\Debug\net6.0\Library_System.dll
+D:\ITI\UML\Library_System\Library_System\Library_System\obj\Debug\net6.0\ref\Library_System.dll
+D:\ITI\UML\Library_System\Library_System\Library_System\obj\Debug\net6.0\Library_System.pdb
+D:\ITI\UML\Library_System\Library_System\Library_System\obj\Debug\net6.0\Library_System.genruntimeconfig.cache
